@@ -3,3 +3,5 @@ Utilizando uma biblioteca de template para Python chamada 'Jinja2', e com alguma
 A funcionalidade é bem básica sem nenhum design diferente ou estilização chique. Simplesmente gera uma lista nova ao recarregar a página, em um loop infinito.
 O processo de estresse, raiva, tristeza e quase desistência me deixou com mais raiva ainda depois de entender que só era necessário importar uma biblioteca. 
 Agradecimentos ao chatgpt, a Ana e ao professor.
+
+aqui o endereço: http://localhost:8000/
