@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sorteio Result</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Resultado do Sorteio</h1>
+    <ul>
+        {% for place, student in alunos %}
+        <li>Lugar {{ place }} - {{ student }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
