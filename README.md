@@ -4,4 +4,5 @@ A funcionalidade é bem básica sem nenhum design diferente ou estilização chi
 O processo de estresse, raiva, tristeza e quase desistência me deixou com mais raiva ainda depois de entender que só era necessário importar uma biblioteca. 
 Agradecimentos ao chatgpt, a Ana e ao professor.
 
-aqui o endereço: http://localhost:8000/
+aqui o endereço: http://localhost:8000/ 
+ps: não tente apenas jogar o link no navegador para fazer funcionar.
