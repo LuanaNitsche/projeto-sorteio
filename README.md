@@ -6,3 +6,4 @@ Agradecimentos ao chatgpt, a Ana e ao professor.
 
 aqui o endereço: http://localhost:8000/ 
 ps: não tente apenas jogar o link no navegador para fazer funcionar.
+ps2: pode conter pedaços de código não funcionais 
